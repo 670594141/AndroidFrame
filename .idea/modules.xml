@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidFrame.iml" filepath="$PROJECT_DIR$/AndroidFrame.iml" />
+      <module fileurl="file://D:\AndroidFrame\AndroidFrame.iml" filepath="D:\AndroidFrame\AndroidFrame.iml" />
+      <module fileurl="file://D:\workplace\AndroidProjectFrame-master\AndroidProjectFrame.iml" filepath="D:\workplace\AndroidProjectFrame-master\AndroidProjectFrame.iml" />
+      <module fileurl="file://D:\workplace\AndroidFrame\AndroidProjectFrame-master.iml" filepath="D:\workplace\AndroidFrame\AndroidProjectFrame-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\workplace\AndroidFrame\app\app.iml" filepath="D:\workplace\AndroidFrame\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nohttp/nohttp.iml" filepath="$PROJECT_DIR$/nohttp/nohttp.iml" />
+    </modules>
+  </component>
+</project>
